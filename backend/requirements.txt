@@ -1,0 +1,9 @@
+django>=6.0.6
+djangorestframework
+django-cors-headers
+django-environ
+pymysql
+drf-spectacular
+whitenoise[brotli]
+gunicorn
+django-admin-interface
