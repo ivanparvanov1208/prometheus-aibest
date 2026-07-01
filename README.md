@@ -1,4 +1,4 @@
-# Prometheus AIBest - Event Management System
+# Attendly - Event Management System
 
 This repository contains a full-stack web application designed for event management, featuring distinct backend and frontend components. The system allows for the creation, management, and registration of events, supporting different user roles such as students and organizers.
 
